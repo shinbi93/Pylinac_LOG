@@ -1,6 +1,6 @@
 # Pylinac_LOG
 
-Python code for analyzing a Trajectory log file using Pylinac
+Python code for analyzing a Trajectory log file using Pylinac<br/>
 Pylinac: https://pylinac.readthedocs.io/en/latest/
 
 # File info
