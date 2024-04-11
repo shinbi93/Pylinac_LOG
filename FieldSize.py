@@ -17,25 +17,6 @@ print("##############################################################")
 tlog=TrajectoryLog(log_file_path1)
 tlog2=TrajectoryLog(log_file_path2)
 
-# control_positions=tlog.axis_data.control_point.actual
-# print(control_positions)
-# print(len(control_positions))
-#
-# axes1=tlog.axis_data.mlc.leaf_axes[1].actual
-# axes2=tlog.axis_data.mlc.leaf_axes[2].actual
-# print(sum(axes2-axes1))
-
-
-
-
-#mlc_position1=log.axis_data.mlc.leaf_axes[1].actual
-#mlc_position2=log.axis_data.mlc.leaf_axes[61].actual
-#print(mlc_position1)
-#print(mlc_position2)
-
-#field_size_width = max(mlc_position2) - min(mlc_position1)
-#field_size_height= 10
-
 
 cp=tlog2.axis_data.control_point.actual
 print(tlog2.axis_data.control_point.actual)
