@@ -7,4 +7,4 @@ Pylinac: https://pylinac.readthedocs.io/en/latest/
 Default LOG file information during the therapy session: WB+SIB_1.CW_TrajectoryLog.py<br/>
 To calculate MU value as Gy: MUtoGy_convert.py<br/>
 How to check the fluence map: Total.py<br/>
-How to check BEV for MLC location: output.py
+How to check BEV for MLC location: Output.py
